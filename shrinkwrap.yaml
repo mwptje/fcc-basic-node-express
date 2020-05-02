@@ -405,13 +405,14 @@ packages:
     dev: false
     name: fcc-express-bground
     resolution:
+      registry: 'https://registry.npmjs.org/'
       tarball: 'https://codeload.github.com/Em-Ant/fcc-express-bground-pkg/tar.gz/597d66d2cc536e746e1603d0332246317d515f79'
     version: 0.0.5
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
-  body-parser: ^1.15.2
-  cookie-parser: ^1.4.3
-  express: ^4.14.0
+  body-parser: ^1.19.0
+  cookie-parser: ^1.4.5
+  express: ^4.17.1
   fcc-express-bground: 'git+https://github.com/Em-Ant/fcc-express-bground-pkg.git'
